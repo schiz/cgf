@@ -1,0 +1,4 @@
+div.main.contacts.clearfix
+	div.contacts-wrap
+		= partial "shared/_contacts_map"
+		= partial "shared/_contacts_middle"

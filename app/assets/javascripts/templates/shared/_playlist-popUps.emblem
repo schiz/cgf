@@ -1,0 +1,12 @@
+div#popup_block.show_popup
+	div#popup_fone
+	div.popup_window.video-share.active
+		ul.soc-inf_list.clearfix
+			li.face-book
+				a href="#"
+			li.twitter
+				a href="#"
+			li.vk
+				a href="#"
+		a.btn.btn-primary.btn-lg role="button" href="#" share via e-mail
+		span.video-share-block_close

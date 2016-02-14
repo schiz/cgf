@@ -1,0 +1,2 @@
+div.map-wrap
+	image-tag classNames="map-image-tag" file="map.jpg" alt=""

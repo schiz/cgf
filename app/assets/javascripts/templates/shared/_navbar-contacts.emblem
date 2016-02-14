@@ -1,0 +1,31 @@
+header.navbar.bs-docs-nav.navbar-fixed-top.navbar-head role="banner"
+    .navbar-header
+      button.navbar-toggle data-target=".bs-navbar-collapse" data-toggle="collapse" type="button"
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+      a.navbar-brand href="./" 
+        image-tag classNames="logo-img" file="logo.png" alt="logo"
+    nav.collapse.navbar-collapse.bs-navbar-collapse role="navigation"
+      ul.nav.navbar-nav.border_nav
+        li
+          a href="./getting-started" Works 
+        li
+          a href="./getting-started" Blog
+        li
+          a href="./getting-started" Wanted
+        li
+          a href="./getting-started" Education
+        li
+          a href="./getting-started" Contact
+          
+      ul.nav.navbar-nav.navbar-right.navbar-language
+        li
+          a.language_link href="#" Ru
+        li.active
+          a.language_link href="#" En
+
+      ul.nav.navbar-nav.navbar-right.navbar-language
+        li
+          a href="./about" info@cgfww.com

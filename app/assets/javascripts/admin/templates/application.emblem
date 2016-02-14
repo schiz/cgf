@@ -1,0 +1,3 @@
+= partial "shared/_navbar"
+.container.main-container
+  = animated-outlet name="main"

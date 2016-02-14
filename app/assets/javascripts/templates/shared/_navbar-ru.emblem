@@ -1,0 +1,30 @@
+header.navbar.bs-docs-nav.navbar-fixed-top.navbar-head role="banner"
+    .navbar-header
+      button.navbar-toggle data-target=".bs-navbar-collapse" data-toggle="collapse" type="button"
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+      a.navbar-brand.logo-ivers{action setMenu target='controller'}
+    nav.collapse.navbar-collapse.bs-navbar-collapse role="navigation"
+      ul.nav.navbar-nav.border_nav.navbar-5
+        li
+          a href="./getting-started" работы
+        li
+          a href="./getting-started" Блог
+        li
+          a href="./getting-started" Вакансии
+        li
+          a href="./getting-started" обучение
+        li
+          a href="./getting-started" контакты
+          
+      ul.nav.navbar-nav.navbar-right.navbar-language
+        li
+          a.language_link href="#" Ru
+        li.active
+          a.language_link href="#" En
+
+      ul.nav.navbar-nav.navbar-right.navbar-mail
+        li
+          a href="./about" info@cgfww.com

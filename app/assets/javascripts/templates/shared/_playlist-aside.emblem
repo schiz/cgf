@@ -1,0 +1,43 @@
+div.playlist-aside.playlist-fixed
+	div.playlist-info
+		span.playlist-text playlist
+		h3.playlist-title the best moments so far. mr.smith
+		div.playlist-count_wrap.clearfix
+			a.playlist-count href="#" 16 videos
+			span.playlist-ico.playlist-ico-right
+	ul.playlist-video_list
+		li
+			image-tag classNames="playlist-video_img" file="playlist-1.jpg" alt=""
+			span.playlist-video_text Special effects reel 2013
+		li
+			image-tag classNames="playlist-video_img" file="playlist-2.jpg" alt=""
+			span.playlist-video_text Abroham Linkoln: Vampire hunter
+		li
+			image-tag classNames="playlist-video_img" file="playlist-3.jpg" alt=""
+			span.playlist-video_text Green day commercial
+		li
+			p.playlist-video-hint_text «Check out the colors. Keep this video in mind our next meeting»
+		li
+			image-tag classNames="playlist-video_img" file="playlist-4.jpg" alt=""
+			span.playlist-video_text Chronocle: environment
+		li
+			image-tag classNames="playlist-video_img" file="playlist-5.jpg" alt=""
+			span.playlist-video_text duhless Special effects
+		li
+			image-tag classNames="playlist-video_img" file="playlist-1.jpg" alt=""
+			span.playlist-video_text Special effects reel 2013
+		li
+			image-tag classNames="playlist-video_img" file="playlist-2.jpg" alt=""
+			span.playlist-video_text Abroham Linkoln: Vampire hunter
+		li
+			image-tag classNames="playlist-video_img" file="playlist-3.jpg" alt=""
+			span.playlist-video_text Green day commercial
+		li
+			image-tag classNames="playlist-video_img" file="playlist-1.jpg" alt=""
+			span.playlist-video_text Special effects reel 2013
+		li
+			image-tag classNames="playlist-video_img" file="playlist-2.jpg" alt=""
+			span.playlist-video_text Abroham Linkoln: Vampire hunter
+		li
+			image-tag classNames="playlist-video_img" file="playlist-3.jpg" alt=""
+			span.playlist-video_text Green day commercial

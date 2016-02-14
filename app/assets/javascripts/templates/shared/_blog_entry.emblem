@@ -1,0 +1,3 @@
+.main.blog_entry.clearfix
+	= partial "shared/_blog_entry-aside"
+	= partial "shared/_blog_entry-middle"

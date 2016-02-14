@@ -1,0 +1,159 @@
+div.wrap_style.clearfix
+	span.playlist-ico.style-left
+	span.playlist-ico.active.style-left
+	div.popup_window.video-share.active.video-share-border.style-left
+		ul.soc-inf_list.clearfix
+			li.face-book
+				a href="#"
+			li.twitter
+				a href="#"
+			li.vk
+				a href="#"
+		a.btn.btn-primary.btn-lg role="button" href="#" share via e-mail
+		span.video-share-block_close
+	div.popup_window.video-share.video_enter_mail.active.video-share-border.style-left
+		ul.soc-inf_list.clearfix
+			li.face-book
+				a href="#"
+			li.twitter
+				a href="#"
+			li.vk
+				a href="#"
+		div.enter_mail
+			input.enter_mail-input type="text" value="Enter e-mail here "
+			span.enter_mail-arrow
+		span.video-share-block_close
+
+div.clearfix
+	aside.aside_all_project
+		div.filter-title
+			form.filter-search action="#"
+				input.filter-search-input type="text" value="Search..."
+				span.filter-search-ico
+				ul.filter-search_block.active
+					li
+						span Metro
+					li
+						span Metric system
+					li
+						span Metronomy music video
+
+		div.filter-body
+			ul.search-list
+				li.active
+					a href="#" all
+				li
+					a href="#" reels
+				li
+					a href="#" movies
+				li
+					a href="#" Commercial
+		form.filter-form action="#"
+			div#accordion
+				div.filter-accordion-title.active
+					span.filter-title_text services
+					span.filter-title_ico
+				div.filter-body.filter-services
+					ul.filter-services_list
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Special effects
+							span.filter-services-count 31
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Envinronment
+							span.filter-services-count 15
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Architecture
+							span.filter-services-count 42
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Titles
+							span.filter-services-count 12
+
+				div.filter-accordion-title.active
+					span.filter-title_text Year
+					span.filter-title_ico
+				div.filter-body.filter-body-slider-range
+					div#slider-range
+						div.slider-range-center
+						a.slider-link.link-left
+						a.slider-link.link-right
+						div.slider-date-wrap
+							span.slider-date 2004
+							span.slider-date.slider-date-left 2008-2012
+							span.slider-date.slider-date-right 2014
+
+				div.filter-accordion-title.active
+					span.filter-title_text Companies
+					span.filter-title_ico
+				div.filter-body.filter-services
+					ul.filter-services_list
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Special effects
+							span.filter-services-count 31
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Envinronment
+							span.filter-services-count 15
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Architecture
+							span.filter-services-count 42
+						li
+							label.filter-services-label
+								input.filter-services-input type="checkbox"
+								span.filter-services-check_box
+								span.filter-services-text Titles
+							span.filter-services-count 12
+
+				div.filter-accordion-title
+					span.filter-title_text people
+					span.filter-title_ico
+				div.filter-body.filter_people
+					p.filter_people-text Filtered 24 / 60
+					a.btn.btn-primary.btn-lg role="button" All to playlist
+					a.btn.btn-primary.btn-lg role="button" Playlist (3)
+
+	div.style-wrapper
+		div.about_info
+			form.about_info-form action="#"
+				h5.about_info-title what do you think about it?
+				textarea.about_info-textarea Wow! Welldone, guys. The film was a minor financial success after its theatrical run, and was generally met with positive critical
+		div.add_comment
+			p.add_comment-text To add a comment you have to login via one of the following social networks
+			ul.soc-inf_list.clearfix
+				li.face-book
+					a href="#"
+				li.twitter
+					a href="#"
+				li.vk
+					a href="#"
+			a.btn.btn-primary.btn-lg.disabled role="button" href="#" Add comment
+
+
+
+
+
+
+
+		
+
+
+

@@ -1,0 +1,4 @@
+= partial "shared/_navbar"
+= partial "shared/_project_snapshots"
+= partial "shared/_video-footer"
+

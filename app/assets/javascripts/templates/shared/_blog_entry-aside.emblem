@@ -1,0 +1,12 @@
+div.blog_entry-aside
+	ul.blog_entry-nav
+		li.active
+			a link="#" All entries
+		li
+			a link="#" work in progress
+		li
+			a link="#" CG events
+		li
+			a link="#" wanted
+		li
+			a link="#" fx-education

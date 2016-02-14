@@ -1,0 +1,11 @@
+= partial "shared/_navbar"
+= partial renderPage
+if menuPreview
+  .tmp-pages-list
+    ul
+      each pages
+        li
+          a{action switchPage this} href="#"
+            this
+
+

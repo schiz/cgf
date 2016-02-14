@@ -1,0 +1,23 @@
+<% files = Dir.glob('app/assets/images/*') %>
+
+Cgf.ImageTagComponent = Ember.Component.extend({
+  tagName: "img",
+  attributeBindings: ["file", "src:src"],
+  src: "",
+  files: null,
+  init: function() {
+    this._super();
+    var hash = {};
+    <% files.each do |path| %>
+      <% if [".jpg", ".png", ".gif", ".svg"].include?(File.extname(path)) %>
+        hash['<%= File.basename(path) %>'] = '<%= asset_path File.basename(path) %>';
+      <% end %>
+    <% end %>
+    this.set("files", hash)
+  },
+    
+  
+  didInsertElement: function() {
+    this.set("src", this.files[this.file]);
+  }
+});

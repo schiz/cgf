@@ -1,0 +1,5 @@
+div#popup_block.show_popup
+	div#popup_fone
+	div.popup_window.video_add.active
+		a.video_add_img href="#"
+		h5.video_add-title video has been added to the  playlist

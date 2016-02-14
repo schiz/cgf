@@ -1,0 +1,32 @@
+div.blog_entry-middle.blog_entry-new_style
+	h5.blog-entry-title.title-sub
+		span.blog-entry-title_text work in progress
+		span.blog-entry-title_decor
+		span.blog-entry-title_count 7 march
+		span.blog-entry-title_ico
+	h3.blog-entry-title.title_top.new_style
+		span.blog-entry-title_text new snapshots from «Mongol» movie
+		span.blog-entry-title_ico
+	image-tag classNames="blog-entry-img" file="blog_entry-1.jpg" alt=""
+	h4.blog-entry-title.title_small The film was a co-production between companies in Russia, Germany and Kazakhstan. Filming took mainly place in the People's Republic of China, principally in Inner Mongolia (the Mongol autonomous region), and in Kazakhstan. Shooting began in September 2005, and was completed in November 2006. 
+	p.blog-entry-text The film was a co-production between companies in Russia, Germany and Kazakhstan. Filming took mainly place in the People's Republic of China, principally in Inner Mongolia (the Mongol autonomous region), and in Kazakhstan. Shooting began in September 2005, and was completed in November 2006. After an initial screening at the Russian Film Festival in Vyborg on August 10, 2007, Mongol was released in Russia on September 20, 2007. It saw a limited release in the United States on June 6, 2008 grossing $5,705,761 in domestic ticket sales. It earned $20,821,749 in business through international release to top out at a combined $26,527,510 in gross revenue. The film was a minor financial success after its theatrical run, and was generally met with positive critical reviews. The film was nominated for the 2007 Academy Award for Best Foreign Language Film as a submission from Kazakhstan.
+	ul.blog_entry-list.clearfix
+		li
+			a
+				image-tag file="blog_entry-list-1.jpg" alt=""
+		li
+			a
+				image-tag file="blog_entry-list-2.jpg" alt=""
+		li
+			a
+				image-tag file="blog_entry-list-3.jpg" alt=""
+	div.comments_wrap
+		span.comments-text Comments 
+		span.comments-text.comments-count (1 comment)
+		ul.blog_entry-comments
+			li.clearfix
+				image-tag classNames="comments-body-ico" file="ico_head.png" alt=""
+				div.comments-body-text_wrap
+					h5.comments-body-text_title Kirill vlasov
+					p.comments-body-text Wow! Welldone, guys. The film was a minor financial success after its theatrical run, and was generally met with positive critical reviews.
+		a.btn.btn-primary.btn-lg.add_comment href="#" role="button" Add comment

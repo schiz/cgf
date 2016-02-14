@@ -1,0 +1,18 @@
+main.main.main-vertical
+	div.container.container-center
+		h4.main-title.sub Highest level
+		h2.main-title video effects production
+		p.main-text We developed a plain and clear production scheme and made the system restructure that affected work.
+		p.main-button
+			a.btn.btn-primary.btn-lg role="button" Watch showreel
+		ul.offer_list.list-inline.clearfix
+			li
+				a href="#" Special Effects
+			li
+				a href="#" Environment
+			li
+				a href="#" Architecture
+		div.main-arrow
+			a.main-arrow_bottom href="#"
+				image-tag file="index-arrow.png" classNames="main-arrow_bottom-img"
+			div.main-arrow-text Scroll to explore

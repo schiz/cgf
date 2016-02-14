@@ -1,0 +1,21 @@
+footer.video-footer-wrap
+	.navbar-footer.clearfix
+		ul.nav.navbar-nav.border_nav
+			li.active
+				a.navbar-footer.navbar-footer-video href="#"
+					span.navbar-footer-ico
+					span.navbar-footer-text Video
+					span.navbar-footer-count 4
+			li
+				a.navbar-footer.navbar-footer-snapshots href="#"
+					span.navbar-footer-ico
+					span.navbar-footer-text Snapshots
+					span.navbar-footer-count 12
+			li
+				a.navbar-footer.navbar-footer-details href="#"
+					span.navbar-footer-ico
+					span.navbar-footer-text Details
+		ul.nav.navbar-nav.border_nav.navbar-right
+			li
+				a.navbar-footer.navbar-footer-check
+					span.navbar-footer-text Check it

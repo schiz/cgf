@@ -1,0 +1,77 @@
+div.middle_all_project
+	div.middle-wrap
+		div.video_view
+			h3.video_view-title The geographer drunk his globe away
+			div.video_view-text 2014
+			div.btn_wrap
+				a.btn.btn-primary.btn-lg role="button" Watch it
+				ul.offer_list.list-inline.clearfix
+					li
+						a href="#" More videos
+					li
+						a href="#" Snapshot
+					li
+						a href="#" Details
+				a.add_playlist-link href="#" 
+					span.add_playlist-text Add to playlist
+					span.add_playlist-ico
+		div.video_view.video_view-metro
+			h3.video_view-title metro
+			div.video_view-text 2014
+			div.btn_wrap
+				a.btn.btn-primary.btn-lg role="button" Watch it
+				ul.offer_list.list-inline.clearfix
+					li
+						a href="#" More videos
+					li
+						a href="#" Snapshot
+					li
+						a href="#" Details
+				a.add_playlist-link href="#" 
+					span.add_playlist-text Add to playlist
+					span.add_playlist-ico
+		div.video_view.video_view-metro
+			h3.video_view-title metro
+			div.video_view-text 2014
+			div.btn_wrap
+				a.btn.btn-primary.btn-lg role="button" Watch it
+				ul.offer_list.list-inline.clearfix
+					li
+						a href="#" More videos
+					li
+						a href="#" Snapshot
+					li
+						a href="#" Details
+				a.add_playlist-link href="#" 
+					span.add_playlist-text Add to playlist
+					span.add_playlist-ico
+		div.video_view.video_view-metro
+			h3.video_view-title metro
+			div.video_view-text 2014
+			div.btn_wrap
+				a.btn.btn-primary.btn-lg role="button" Watch it
+				ul.offer_list.list-inline.clearfix
+					li
+						a href="#" More videos
+					li
+						a href="#" Snapshot
+					li
+						a href="#" Details
+				a.add_playlist-link href="#" 
+					span.add_playlist-text Add to playlist
+					span.add_playlist-ico
+		div.video_view.video_view-metro
+			h3.video_view-title metro
+			div.video_view-text 2014
+			div.btn_wrap
+				a.btn.btn-primary.btn-lg role="button" Watch it
+				ul.offer_list.list-inline.clearfix
+					li
+						a href="#" More videos
+					li
+						a href="#" Snapshot
+					li
+						a href="#" Details
+				a.add_playlist-link href="#" 
+					span.add_playlist-text Add to playlist
+					span.add_playlist-ico

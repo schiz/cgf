@@ -1,0 +1,11 @@
+main.main.video.main-vertical
+	div.container.container-center.video-wrap
+		a.view-back_link href="#" 
+			span.view-back_text Назад ко всем
+		div.video-play_wrap
+			a.video-play
+		span.main_data 2014
+		h2.main-title История о смелой белке которая любила орехи
+
+
+

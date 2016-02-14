@@ -1,0 +1,36 @@
+main.main.timeline.main-vertical
+	div.container.container-parent
+		div.container-timeline_wrap
+			ul.main_info
+				li
+					span.main_info-count 112
+					span.main_info-text completed projects
+				li
+					span.main_info-count 204
+					span.main_info-text FX professionals
+			span.main_data 2014
+			h2.main-title What’s the next? Look what’ll happen if you start work with us.
+			p.main-text We developed a plain and clear production scheme and made the system restructure that affected work.
+			ul.main-button_list
+				li
+					a.btn.btn-primary.btn-lg role="button" Start a project
+				li
+					a.btn.btn-primary.btn-lg role="button" Watch showreel
+	div.timeline_wrap		
+		ul.timeline_list
+			li
+				span.timeline_item 2004
+			li
+				span.timeline_item 2009
+			li
+				span.timeline_item 2009
+			li
+				span.timeline_item 2009
+			li
+				span.timeline_item 2009
+			li.active
+				span.timeline_item 2014
+			li
+				span.timeline_item 2016
+		div.timeline-decor
+

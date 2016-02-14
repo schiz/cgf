@@ -1,0 +1,8 @@
+div.playlist-middle
+	a.view-back_link href="#" 
+		span.view-back_text View all projects
+	div.main-block_wrap
+		h2.main-title the Best moments so far, mr.smith
+		p.main-text We developed a plain and clear production scheme and made the system restructure that affected work.
+		div
+			a.btn.btn-primary.btn-lg role="button" href="#" Watch all

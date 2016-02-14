@@ -1,0 +1,23 @@
+header.navbar.bs-docs-nav.navbar-fixed-top.navbar-head.navbar-new role="banner"    
+    nav.collapse.navbar-collapse.bs-navbar-collapse role="navigation"
+      ul.nav.navbar-nav.border_nav.nav-new
+        li
+          a.navbar-brand.logo-ivers{action setMenu target='controller'}
+        li
+          a href="./getting-started" Works 
+        li
+          a href="./getting-started" Blog
+        li
+          a href="./getting-started" Wanted
+        li
+          a href="./getting-started" Contact
+          
+      ul.nav.navbar-nav.navbar-right.navbar-language
+        li
+          a.language_link href="#" Ru
+        li.active
+          a.language_link href="#" En
+
+      ul.nav.navbar-nav.navbar-right.navbar-mail
+        li
+          a href="./about" info@cgfww.com

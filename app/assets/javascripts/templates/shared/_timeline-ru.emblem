@@ -1,0 +1,36 @@
+main.main.timeline.main-vertical
+	div.container.container-parent
+		div.container-timeline_wrap
+			ul.main_info
+				li
+					span.main_info-count 112
+					span.main_info-text оконченных проектов
+				li
+					span.main_info-count 204
+					span.main_info-text FX-профессионалов
+			span.main_data 2014
+			h2.main-title Что в следующем году? Посмотрите что тпроизойдёт, если мы сработаемся.
+			p.main-text Мы разработали чёткую и удобную схему сотрудничества, которая позволяет достичь удивительных результатов.
+			ul.main-button_list
+				li
+					a.btn.btn-primary.btn-lg role="button" Начать проект
+				li
+					a.btn.btn-primary.btn-lg role="button" Присоединиться к нам
+	div.timeline_wrap		
+		ul.timeline_list
+			li
+				span.timeline_item 2004
+			li
+				span.timeline_item 2009
+			li
+				span.timeline_item 2009
+			li
+				span.timeline_item 2009
+			li
+				span.timeline_item 2009
+			li.active
+				span.timeline_item 2014
+			li
+				span.timeline_item 2016
+		div.timeline-decor
+

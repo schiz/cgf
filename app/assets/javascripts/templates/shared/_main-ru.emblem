@@ -1,0 +1,18 @@
+main.main.main-vertical
+	div.container.container-center
+		h4.main-title.sub высококлассное
+		h2.main-title производство визуальных эФФЕКТОВ
+		p.main-text Мы выстроили простую и четкую схему работы компании, и провели системную реструктуризацию, затрагивающую как пайплайн студии.
+		p.main-button
+			a.btn.btn-primary.btn-lg role="button" смотреть шоурил
+		ul.offer_list.list-inline.clearfix
+			li
+				a href="#" Спецэффекты
+			li
+				a href="#" окружение
+			li
+				a href="#" архитектура
+		div.main-arrow
+			a.main-arrow_bottom href="#"
+				image-tag file="index-arrow.png" classNames="main-arrow_bottom-img"
+			div.main-arrow-text Узнать больше

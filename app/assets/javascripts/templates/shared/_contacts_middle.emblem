@@ -1,0 +1,28 @@
+ul.contacts-list
+	li.active
+		h3.contacts-city_title Moscow
+		div.contacts-info
+			div.contacts-info_text Russia, Moscow, Prechistenka st., 27,office 104
+			span.contacts-info_phone +7 095 6832035
+		div.contacts-info
+			div.contact-info_wrap
+				span.contacts-info_text Sales manager:
+				span.contacts-info_text-bold Irina Efimova
+			div.contact-info_wrap
+				span.contacts-info_text FX group head:
+				span.contacts-info_text-bold Mikhail Evdokimov
+			div.contact-info_wrap
+				span.contacts-info_text Finaces:
+				span.contacts-info_text-bold Ivan Morozov
+	li
+		h3.contacts-city_title Los Angeles
+	li
+		h3.contacts-city_title Vladivistok
+	li
+		h3.contacts-city_title Kiev
+	li
+		h3.contacts-city_title Odessa
+	li
+		h3.contacts-city_title Dallas
+	li
+		h3.contacts-city_title Manchester

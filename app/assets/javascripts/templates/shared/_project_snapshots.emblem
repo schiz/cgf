@@ -1,0 +1,13 @@
+main.main.main-slider
+	div.slider-wrap
+		a.view-back_link href="#" 
+			span.view-back_text View all projects
+		ul.slider-list.clearfix
+			li.left
+				image-tag file="slider-1.jpg" alt=""
+			li.center
+				image-tag file="slider-1.jpg" alt=""
+			li.right
+				image-tag file="slider-1.jpg" alt=""
+		a.slder_arrow.slider_arrow-back
+		a.slder_arrow.slider_arrow-next

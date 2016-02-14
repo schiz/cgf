@@ -1,0 +1,4 @@
+.main.all_project.clearfix
+	= partial "shared/_filter_left"
+	= partial "shared/_video_view"
+= partial "shared/_popUps"

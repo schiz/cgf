@@ -1,0 +1,4 @@
+= partial "shared/_navbar"
+= partial "shared/_video"
+= partial "shared/_video-footer"
+

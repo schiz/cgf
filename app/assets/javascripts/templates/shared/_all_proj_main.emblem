@@ -1,0 +1,93 @@
+main.main.all_project
+	div.container
+		aside.aside_all_project
+			div.filter-title
+				form.filter-search action="#"
+					input.filter-search-input type="text" value="Search..."
+					span.filter-search-ico
+					ul.filter-search_block.active
+						li
+							span Metro
+						li
+							span Metric system
+						li
+							span Metronomy music video
+
+			div.filter-body
+				ul.search-list
+					li.active
+						a href="#" all
+					li
+						a href="#" reels
+					li
+						a href="#" movies
+					li
+						a href="#" Commercial
+			form.filter-form action="#"
+				div#accordion
+					div.filter-accordion-title.active
+						span.filter-title_text services
+						span.filter-title_ico
+					div.filter-body.filter-services
+						ul.filter-services_list
+							li
+								label.filter-services-label
+									input.filter-services-input type="checkbox"
+									span.filter-services-check_box
+									span.filter-services-text Special effects
+								span.filter-services-count 31
+							li
+								label.filter-services-label
+									input.filter-services-input type="checkbox"
+									span.filter-services-check_box
+									span.filter-services-text Envinronment
+								span.filter-services-count 15
+							li
+								label.filter-services-label
+									input.filter-services-input type="checkbox"
+									span.filter-services-check_box
+									span.filter-services-text Architecture
+								span.filter-services-count 42
+							li
+								label.filter-services-label
+									input.filter-services-input type="checkbox"
+									span.filter-services-check_box
+									span.filter-services-text Titles
+								span.filter-services-count 12
+
+					div.filter-accordion-title
+						span.filter-title_text Year
+						span.filter-title_ico
+					div.filter-body.filter-body-slider-range
+						div#slider-range
+							div.slider-range-center
+							a.slider-link.link-left
+							a.slider-link.link-right
+							div.slider-date-wrap
+								span.slider-date 2004
+								span.slider-date.slider-date-left 2008-2012
+								span.slider-date.slider-date-right 2014
+
+					div.filter-accordion-title
+						span.filter-title_text Year
+						span.filter-title_ico
+					div.filter-body
+
+					div.filter-accordion-title
+						span.filter-title_text people
+						span.filter-title_ico
+					div.filter-body.filter_people
+						p.filter_people-text Filtered 24 / 60
+						a.btn.btn-primary.btn-lg role="button" All to playlist
+						a.btn.btn-primary.btn-lg role="button" Playlist (3)
+
+
+
+
+
+
+
+		
+
+
+

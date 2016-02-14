@@ -1,0 +1,11 @@
+main.main.video.main-vertical
+	div.container.container-center.video-wrap
+		a.view-back_link href="#" 
+			span.view-back_text View all projects
+		div.video-play_wrap
+			a.video-play
+		span.main_data 2014
+		h2.main-title The geographer drunk his globe away
+
+
+
